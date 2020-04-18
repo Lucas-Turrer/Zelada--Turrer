@@ -9,7 +9,7 @@ public class Calculadora {
  Integer opcion;
  Integer resultado;
  do{
- System.out.println("Hola mundo");
+ System.out.println("Ho mundo");
  opcion = teclado.nextInt();
  }while(opcion < 1 && opcion > 4);
  System.out.println("Ingrese el primer numero");
